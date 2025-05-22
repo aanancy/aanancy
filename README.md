@@ -6,14 +6,13 @@
   I’m currently building my skills in Data Analysis, Data Visualisation, and exploring the data world one project at a time.
 </p>
 
-<img align="right" alt="Data Dashboard" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif]">
+<img align="right" alt="Data Dashboard" width="400" src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" />
 
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Power BI portfolio projects**  
 - 📫 Reach me at **ananshakc1@gmail.com**  
 - 💼 Let’s connect on <a href="https://www.linkedin.com/in/ananshakc/" target="_blank">LinkedIn</a>
-
 
 ### 🛠️ Languages & Tools
 
@@ -34,4 +33,3 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/>
   </a>
 </p>
-
