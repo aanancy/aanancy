@@ -34,3 +34,9 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/."> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="." /></a><a href="https://ko-fi.com//"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="/" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkl&show_icons=true&locale=en" alt="kkl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkl&" alt="kkl" /></p>
