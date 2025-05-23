@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anansha Kc</h1>
 <h3 align="center">A Passionate Data Analyst from Sydney, Australia</h3>
 
-<p align="center">
-  I’m someone who’s naturally curious, loves solving problems, and genuinely enjoys digging into data to find meaning in the mess.<br/>
-  I’m currently building my skills in Data Analysis, Data Visualisation, and exploring the data world one project at a time.
-</p>
-
-<img align="right" alt="Data Dashboard" width="320" src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="max-width: 500px;">
+    <p>
+      I’m someone who’s naturally curious, loves solving problems, and genuinely enjoys digging into data to find meaning in the mess.<br/>
+      I’m currently building my skills in Data Analysis, Data Visualisation, and exploring the data world one project at a time.
+    </p>
+  </div>
+  <img alt="Data Dashboard" width="300" src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" />
+</div>
 
 ### 🚀 About Me
 
