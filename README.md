@@ -6,7 +6,7 @@
   I’m currently building my skills in Data Analysis, Data Visualisation, and exploring the data world one project at a time.
 </p>
 
-<img align="right" alt="Data Dashboard" width="400" src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" />
+<img align="right" alt="Data Dashboard" width="320" src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" />
 
 ### 🚀 About Me
 
